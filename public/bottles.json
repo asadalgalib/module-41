@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "category": "Water Bottle",
+      "name": "Hydro Flask",
+      "seller": "BottleWorld",
+      "price": 29.99,
+      "stock": 150,
+      "ratings": 4.8,
+      "ratingsCount": 256,
+      "img": "https://images.othoba.com/images/thumbs/0676716_ss-single-wall-water-bottle-650ml.jpeg",
+      "shipping": {
+        "method": "Standard",
+        "cost": 5.99,
+        "estimated_days": 3
+      },
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "category": "Sports Bottle",
+      "name": "Nike Sport",
+      "seller": "SportsGear",
+      "price": 19.99,
+      "stock": 80,
+      "ratings": 4.5,
+      "ratingsCount": 134,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbagYEm3IArWnUDev72GYc8jvIZAtq0N6Lw&s",
+      "shipping": {
+        "method": "Express",
+        "cost": 9.99,
+        "estimated_days": 1
+      },
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "category": "Insulated Bottle",
+      "name": "Thermos",
+      "seller": "ThermoWorld",
+      "price": 24.99,
+      "stock": 60,
+      "ratings": 4.7,
+      "ratingsCount": 190,
+      "img": "https://www.bdshop.com/pub/media/catalog/product/cache/0a9842a5e3033a11158d10717601d786/t/r/transparent_500ml_portable_water_bottle.jpg",
+      "shipping": {
+        "method": "Standard",
+        "cost": 5.99,
+        "estimated_days": 4
+      },
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "category": "Glass Bottle",
+      "name": "Ello Pure",
+      "seller": "EcoFriendly",
+      "price": 14.99,
+      "stock": 200,
+      "ratings": 4.3,
+      "ratingsCount": 98,
+      "img": "https://paikaree.com.bd/public/uploads/products/photos/angel-stony-round-shape-baby-plastic-feeder-bottle-(rxa-4c2)---120ml-paikaree.webp",
+      "shipping": {
+        "method": "Free",
+        "cost": 0.00,
+        "estimated_days": 5
+      },
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "category": "Travel Bottle",
+      "name": "Contigo Autoseal",
+      "seller": "TravelGear",
+      "price": 21.99,
+      "stock": 120,
+      "ratings": 4.6,
+      "ratingsCount": 210,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAlKn6YTXea350op-TddZAoYdsR9_WsZeLQ&s",
+      "shipping": {
+        "method": "Standard",
+        "cost": 6.99,
+        "estimated_days": 3
+      },
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "category": "Collapsible Bottle",
+      "name": "Nomader",
+      "seller": "CompactLife",
+      "price": 17.99,
+      "stock": 75,
+      "ratings": 4.4,
+      "ratingsCount": 89,
+      "img": "https://img.cf.rokomari.com/ProductNew20190903/260X372/Thermal_Water_Bottle_500_ml-Non_Brand-0a4d8-322023.jpg",
+      "shipping": {
+        "method": "Standard",
+        "cost": 4.99,
+        "estimated_days": 3
+      },
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "category": "Filtered Bottle",
+      "name": "Brita Premium",
+      "seller": "FilterFresh",
+      "price": 25.99,
+      "stock": 90,
+      "ratings": 4.7,
+      "ratingsCount": 320,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9uN3tyCzo69LyVP0yvDM7otN456wE5E4Gw&s",
+      "shipping": {
+        "method": "Free",
+        "cost": 0.00,
+        "estimated_days": 4
+      },
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "category": "Stainless Steel Bottle",
+      "name": "S'well",
+      "seller": "UrbanChic",
+      "price": 35.99,
+      "stock": 50,
+      "ratings": 4.8,
+      "ratingsCount": 410,
+      "img": "https://lh6.googleusercontent.com/proxy/LvArvnFP_Xv4t3lZsMH5AAUNoz1KvbPK-C1fBFlnUXEy3jK_7YtfpVY45qOCKiWCaiQUNdUwtqrBrEIJPimnQzkemosvFpyb46_1AtfFPXVN70lpW6qcLDEmLe4",
+      "shipping": {
+        "method": "Express",
+        "cost": 8.99,
+        "estimated_days": 2
+      },
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "category": "Plastic Bottle",
+      "name": "CamelBak Eddy",
+      "seller": "AdventureLife",
+      "price": 15.99,
+      "stock": 180,
+      "ratings": 4.5,
+      "ratingsCount": 240,
+      "img": "https://oceanbottle.co/cdn/shop/products/OceanBottle_OG_Front_Ocean-Blue_2048px.jpg?v=1653562177",
+      "shipping": {
+        "method": "Standard",
+        "cost": 5.99,
+        "estimated_days": 3
+      },
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "category": "Kids Bottle",
+      "name": "Thermos FUNtainer",
+      "seller": "KidGear",
+      "price": 12.99,
+      "stock": 300,
+      "ratings": 4.9,
+      "ratingsCount": 150,
+      "img": "https://cdn.bdstall.com/product-image/giant_280082.jpg",
+      "shipping": {
+        "method": "Free",
+        "cost": 0.00,
+        "estimated_days": 5
+      },
+      "quantity": 1
+    }
+  ]
+  
